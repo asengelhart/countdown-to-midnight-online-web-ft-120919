@@ -5,5 +5,6 @@ def countdown(time_limit)
   while count > 0 do 
     puts "#{count} SECOND(S)!"
     count -= 1 
-  end 
+  end
+  "HAPPY NEW YEAR!"
 end
